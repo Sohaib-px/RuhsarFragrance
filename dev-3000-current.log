@@ -1,0 +1,63 @@
+
+> ruhsar@0.1.0 dev
+> next dev -p 3000
+
+   ▲ Next.js 15.5.15
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.56.1:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 3.5s
+ ○ Compiling / ...
+ ✓ Compiled / in 9.5s (630 modules)
+ GET / 200 in 10616ms
+ GET / 200 in 465ms
+ ○ Compiling /api/send-email ...
+ ✓ Compiled /api/send-email in 1452ms (687 modules)
+ GET / 200 in 624ms
+ POST /api/send-email 200 in 5702ms
+ GET / 200 in 496ms
+ ✓ Compiled in 1269ms (631 modules)
+ GET / 200 in 471ms
+ ✓ Compiled in 1768ms (631 modules)
+ GET / 200 in 490ms
+ ○ Compiling /_error ...
+ GET / 500 in 9533ms
+ GET / 500 in 24ms
+ GET / 500 in 26ms
+ GET / 500 in 43ms
+ ✓ Compiled /_error in 2.3s (977 modules)
+ GET / 200 in 1490ms
+ ✓ Compiled in 606ms (977 modules)
+ ✓ Compiled in 1149ms (977 modules)
+ GET / 200 in 281ms
+ ✓ Compiled in 1629ms (881 modules)
+ GET / 200 in 1028ms
+ GET / 200 in 221ms
+ GET / 200 in 268ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 1866ms (872 modules)
+ GET / 404 in 2166ms
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 805ms (968 modules)
+ GET / 500 in 1122ms
+ GET / 500 in 77ms
+ GET / 500 in 222ms
+ GET / 500 in 76ms
+ ✓ Compiled in 3s (881 modules)
+ ✓ Compiled in 1330ms (413 modules)
+ ✓ Compiled in 1170ms (413 modules)
+ ✓ Compiled in 1499ms (413 modules)
+ ✓ Compiled in 955ms (413 modules)
+ ✓ Compiled in 5.5s (881 modules)
+ ✓ Compiled in 1199ms (413 modules)
+ ✓ Compiled in 966ms (413 modules)
+   Reload env: .env.local
+ ✓ Compiled in 4.2s (887 modules)
+ ✓ Compiled in 4.1s (877 modules)
+ ✓ Compiled in 2s (877 modules)
+   Reload env: .env.local
+ ✓ Compiled in 4.3s (863 modules)
+   Reload env: .env.local
+ ✓ Compiled in 959ms (863 modules)

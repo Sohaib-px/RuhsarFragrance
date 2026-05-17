@@ -1,0 +1,26 @@
+
+> ruhsar@0.1.0 dev
+> next dev -p 3100
+
+   ▲ Next.js 15.5.15
+   - Local:        http://localhost:3100
+   - Network:      http://192.168.56.1:3100
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 3.6s
+ ○ Compiling / ...
+ ✓ Compiled / in 8.5s (627 modules)
+ GET / 200 in 9680ms
+   ▲ Next.js 15.5.15
+   - Local:        http://localhost:3100
+   - Network:      http://192.168.56.1:3100
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 4.8s
+ ○ Compiling / ...
+ ✓ Compiled / in 7.3s (613 modules)
+ GET / 200 in 9881ms
+ ✓ Compiled in 20.2s (627 modules)
+[?25h
